@@ -1,0 +1,11 @@
+.butt {
+  width: 160px;
+  margin: 10px;
+  border-radius: 10px;
+  color: #c7d2fe;
+  height: 32px;
+  background-color: #585076;
+  border-width: 1px;
+  border-color: #c7d2fe;
+  border-style: solid;
+}

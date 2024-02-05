@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.total-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.container {
+  background-color: #150b3e;
+  padding: 20px;
+  width: 500px;
+  border-radius: 15px;
+}
+.profile {
+  display: flex;
+  align-items: center;
+}
+.letter {
+  background-color: #c7d2fe;
+  width: 60px;
+  height: 60px;
+  border-radius: 40px;
+  text-align: center;
+  padding-top: 20px;
+}
+.userName {
+  color: #c7d2fe;
+  padding-left: 10px;
+}
+.balanceCont {
+  display: flex;
+  justify-content: space-between;
+}
+.balance {
+  color: #585076;
+  font-family: roboto;
+  font-size: 20px;
+}
+.money {
+  font-size: 23px;
+  color: #c7d2fe;
+}
+.moneyInLetter {
+  color: #585076;
+  font-family: roboto;
+}
+.Withdraw {
+  color: #c7d2fe;
+  font-weight: 500;
+  font-family: roboto;
+  font-size: 24px;
+}
+.para {
+  color: #585076;
+}
+.unOrder {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}
